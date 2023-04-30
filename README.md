@@ -1,18 +1,30 @@
 # CRUD OPERATION OF MONGODB  
 ## SCREENSHOT OF THIS PROJECT 📝  
-Import your existing Readme using the import button on the top right corner of the navbar, 
-or create a new Readme from scratch by typing in the editor.  
 
-## Get Started 🚀  
-To get started, hit the 'clear' button at the top of the editor!  
+I created a gui with the help of semantic ui template and for backend I used nodeJs, mongoDb. NODE PACKAGE WHICH I USED IN THIS PROJECT {expressJs, mongooseJs, ejs, body-parser, }  
 
-## Prebuilt Components/Templates 🔥  
-You can checkout prebuilt components and templates by clicking on the menu icon
-on the top left corner of the navbar.
+## Get Started 🚀 🔥    ✨   
+  
+
     
-## Save Readme ✨  
-Once you're done, click on the save button to directly save your Readme to your
-project's root directory!
  
 ## Screenshots  
-![App Screenshot](./)  
+![App Screenshot](https://raw.githubusercontent.com/DHANRAJCHOUDHARY244/CRUD-OPERATION-PROJECT-MONGO-DB/main/public/css/themes/default/assets/images/HOME.png)  
+ 
+## Screenshots  
+![App Screenshot](https://raw.githubusercontent.com/DHANRAJCHOUDHARY244/CRUD-OPERATION-PROJECT-MONGO-DB/main/public/css/themes/default/assets/images/insert.png)  
+
+## Screenshots  
+![App Screenshot](https://raw.githubusercontent.com/DHANRAJCHOUDHARY244/CRUD-OPERATION-PROJECT-MONGO-DB/main/public/css/themes/default/assets/images/update.png)  
+
+## Screenshots  
+![App Screenshot](https://raw.githubusercontent.com/DHANRAJCHOUDHARY244/CRUD-OPERATION-PROJECT-MONGO-DB/main/public/css/themes/default/assets/images/about_me.png)  
+
+## Screenshots  
+![App Screenshot](https://raw.githubusercontent.com/DHANRAJCHOUDHARY244/CRUD-OPERATION-PROJECT-MONGO-DB/main/public/css/themes/default/assets/images/1.png)  
+
+## Screenshots  
+![App Screenshot](https://raw.githubusercontent.com/DHANRAJCHOUDHARY244/CRUD-OPERATION-PROJECT-MONGO-DB/main/public/css/themes/default/assets/images/2.png)  
+
+## Screenshots  
+![App Screenshot](https://raw.githubusercontent.com/DHANRAJCHOUDHARY244/CRUD-OPERATION-PROJECT-MONGO-DB/main/public/css/themes/default/assets/images/3.png)  
