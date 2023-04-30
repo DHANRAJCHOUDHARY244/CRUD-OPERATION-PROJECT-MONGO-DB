@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>EDIT</title>
+        <link rel="stylesheet" href="/css/semantic.min.css">
+        <link rel="stylesheet" href="/css/style.css">
+    </head>
+
+    <body>
+        <div class="wrapper">
+            <div class="ui menu">
+                <div class="header item">
+                    <a href="/">Home</a>
+                </div>
+                <div class="header item">
+                    <a class="item" style="width: max-content;">
+                        <a href="/aboutme">About_Me</a>
+                    </a>
+                </div>
+                <a class="item">
+                    CENTRAL UNIVERSITY OF RAJASTHAN
+                </a>
+                <a class="item">
+                    <img src="/img/CURAJ.png" alt="">
+                </a>
+            </div>
+            <br><br><br>
+            <div class="ui container">
+                <form action="/edit/<%=clubs._id%>" method="POST" class="ui form">
+                    <div class="ui three fields">
+                        <div class="field">
+                            <label for="club" class="ui header green">Enter the club name</label>
+                            <input type="text" name="name" value="<%=clubs.name%>" placeholder="Enter the club name">
+                        </div>
+                        <div class="field">
+                            <label for="players" class="ui header green">Enter the players</label>
+                            <input type="text" name="players" value="<%=clubs.players%>"
+                                placeholder="Enter the players">
+                        </div>
+                        <div class="field">
+                            <label for="coach" class="ui header green">Enter the coach name</label>
+                            <input type="text" name="coach" value="<%=clubs.coach%>" placeholder="Enter the coach name">
+                        </div>
+                    </div>
+                    <div class="ui fluid field">
+                        <input type="submit" value="Submit" class="ui button green fluid">
+                    </div>
+                </form>
+                <br>
+                <br>
+                <br>
+            </div>
+        </div>
+
+        <script src="/js/semantic.min.js"></script>
+    </body>
+
+</html>
